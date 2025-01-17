@@ -1,5 +1,5 @@
 # Capstone-Project
-# **Analyzing Air Pollution Exposure in Affordable Housing Programs**
+# **Analyzing Air Pollution Exposure in Affordable Housing Programs: A Data-Driven Approach to Environmental Risk**
 
 ## **Introduction**
 ### **Project Overview**
